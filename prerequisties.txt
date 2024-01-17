@@ -1,0 +1,8 @@
+prerequeisties
+
+- javascript
+- dom
+- bom
+- ajax
+- json
+- java script big tutorials
