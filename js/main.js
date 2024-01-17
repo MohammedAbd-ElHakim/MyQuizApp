@@ -84,7 +84,7 @@ function getQuestions() {
         }
     };
 
-    request.open('GET', '/quiz_app/questions/questions.json', true);
+    request.open('GET', '../questions/questions.json', true);
     request.send();
 
 }
